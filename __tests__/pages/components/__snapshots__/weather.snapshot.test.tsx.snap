@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`PageComponentWeather clicks the h1 element and updates the state 1`] = `
+<DocumentFragment>
+  <h1>
+    The weather is sunny, and the counter shows 2
+  </h1>
+</DocumentFragment>
+`;
+
+exports[`PageComponentWeather renders correctly 1`] = `
+<DocumentFragment>
+  <h1>
+    The weather is sunny, and the counter shows 1
+  </h1>
+</DocumentFragment>
+`;
